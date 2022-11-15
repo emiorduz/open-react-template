@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d3b219b.chunk.css",
+    "main.js": "/static/js/main.a40127aa.chunk.js",
+    "main.js.map": "/static/js/main.a40127aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
+    "static/js/2.2cfc9d23.chunk.js": "/static/js/2.2cfc9d23.chunk.js",
+    "static/js/2.2cfc9d23.chunk.js.map": "/static/js/2.2cfc9d23.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c24646d45beb0f07c5a37c259277a896.js": "/precache-manifest.c24646d45beb0f07c5a37c259277a896.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0d3b219b.chunk.css.map": "/static/css/main.0d3b219b.chunk.css.map",
+    "static/js/2.2cfc9d23.chunk.js.LICENSE.txt": "/static/js/2.2cfc9d23.chunk.js.LICENSE.txt",
+    "static/media/BANDA_GRATIS.png": "/static/media/BANDA_GRATIS.79cfcc9c.png",
+    "static/media/MAFIA_DIAMOND.png": "/static/media/MAFIA_DIAMOND.b5403bff.png",
+    "static/media/MAFIA_VIP.png": "/static/media/MAFIA_VIP.70269416.png",
+    "static/media/Normativas-LSPD.pdf": "/static/media/Normativas-LSPD.23e3644d.pdf",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/sinneon.png": "/static/media/sinneon.ed51bf48.png",
+    "static/media/uwu.png": "/static/media/uwu.c468257b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b9f84b.js",
+    "static/js/2.2cfc9d23.chunk.js",
+    "static/css/main.0d3b219b.chunk.css",
+    "static/js/main.a40127aa.chunk.js"
+  ]
+}
